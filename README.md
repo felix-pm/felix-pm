@@ -10,7 +10,7 @@
 - 🧩 J’aime transformer des idées en produits concrets grâce au code.  
 - 💡 Toujours en quête d’apprentissage, actuellement en formation à CODA Orléans en première année de développeur FullStack.  
 - 🌍 Basé à : Orléans
-- 📫 Me contacter : [ton.email@exemple.com](mailto:felix.parendeau@gmail.com)
+- 📫 Me contacter : [felix.parendeau@gmail.com](mailto:felix.parendeau@gmail.com)
 
 ---
 
