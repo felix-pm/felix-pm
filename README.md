@@ -8,30 +8,25 @@
 
 - 🎯 Je conçois des sites et applications web rapides, accessibles et esthétiques.  
 - 🧩 J’aime transformer des idées en produits concrets grâce au code.  
-- 💡 Toujours en quête d’apprentissage — actuellement, je me forme sur **Next.js / TypeScript / DevOps**.  
-- 🌍 Basé à : _[ta ville ou ton pays]_  
-- 📫 Me contacter : [ton.email@exemple.com](mailto:ton.email@exemple.com)
+- 💡 Toujours en quête d’apprentissage, actuellement en formation à CODA Orléans en première année de développeur FullStack.  
+- 🌍 Basé à : Orléans
+- 📫 Me contacter : [ton.email@exemple.com](mailto:felix.parendeau@gmail.com)
 
 ---
 
 ## 🛠️ Stack & Outils
 
 **Langages :**  
-🟦 JavaScript / TypeScript  
-🟪 HTML / CSS / SCSS  
-🟩 PHP / SQL / Python (selon ton profil)
+🟦 JavaScript
+🟪 HTML / CSS
+🟩 PHP / SQL / Python
 
-**Frameworks & Librairies :**  
-⚛️ React / Next.js  
-🔥 Node.js / Express  
-🧱 Tailwind CSS / Bootstrap  
-🧩 Laravel / Symfony (si tu fais du back PHP)
+---
 
 **Outils :**  
 🐙 Git / GitHub  
-💻 VS Code / WebStorm  
+💻 VS Code
 🐳 Docker  
-☁️ Firebase / Vercel / AWS
 
 ---
 
