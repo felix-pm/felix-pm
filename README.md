@@ -58,6 +58,8 @@
 ![HTML](https://img.shields.io/badge/HTML-18181B?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-18181B?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/SQL-18181B?style=for-the-badge&logo=postgresql&logoColor=336791)
+![C](https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### ⚙️ Outils
 ![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032)
