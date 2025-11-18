@@ -52,13 +52,16 @@
 <div align="center" style="margin-bottom: 30px;">
 
 ### 🧩 Langages
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=FACC15)
-![PHP](https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML](https://img.shields.io/badge/HTML-18181B?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-18181B?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/SQL-18181B?style=for-the-badge&logo=postgresql&logoColor=336791)
-![C](https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=18181B)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=18181B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=18181B)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=18181B)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=18181B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=18181B)
+![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=18181B)
+
+
+
 
 
 ### ⚙️ Outils
