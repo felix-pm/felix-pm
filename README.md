@@ -99,14 +99,14 @@
         <a href="https://felix-pm.github.io/felix-pm-final/">
           <img src="https://img.shields.io/badge/Visiter-Site-38BDF8?style=for-the-badge&logo=html5&logoColor=white" />
         </a>
-        <br><br><i>Un site vitrine construit de A à Z</i>
+        <br><br><i>Un site vitrine construit de A à Z en autodidacte avant ma formation</i>
       </td>
       <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
         <h3>🕹️ Mini-jeu Sokoban</h3>
         <a href="https://github.com/felix-pm/coda-bnv-sokoban/tree/main/sokoban">
           <img src="https://img.shields.io/badge/Code-Sokoban-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
         </a>
-        <br><br><i>Un mini-jeu réalisé pendant la formation</i>
+        <br><br><i>Un mini-jeu réalisé pendant ma formation</i>
       </td>
     </tr>
   </table>
