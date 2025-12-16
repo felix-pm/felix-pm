@@ -46,7 +46,7 @@
 
 <!-- Stack Technique -->
 <h2 align="center" style="color:#38bdf8; text-shadow: 0 0 10px #38bdf8;">
-  🧠 Tech Stack
+  🧠 Tech Stack (en cours d'apprentissage)
 </h2>
 
 <div align="center" style="margin-bottom: 30px;">
