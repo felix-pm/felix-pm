@@ -88,6 +88,33 @@
   <table style="border-spacing: 20px;">
     <tr>
       <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
+        <h3>💻​ Prochain projet...</h3>
+        <a href="">
+          <img src="https://img.shields.io/badge/En-développement-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
+        </a>
+        <br><br><i>Ça arrive ...</i>
+      </td>
+      <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
+        <h3>​🎮​ Site pour référencer ses tournois</h3>
+        <a href="https://github.com/felix-pm/The-League2.0">
+          <img src="https://img.shields.io/badge/Visiter-Site-38BDF8?style=for-the-badge&logo=html5&logoColor=white" />
+        </a>
+        <br><br><i>Site web qui permet de référencer tous les matchs d'un tournoi (projet fait en cours)</i>
+      </td>
+      <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
+        <h3>🏖️​ Fair count (Tricount)</h3>
+        <a href="https://github.com/felix-pm/fair-count">
+          <img src="https://img.shields.io/badge/Visiter-Site-38BDF8?style=for-the-badge&logo=html5&logoColor=white" />
+        </a>
+        <br><br><i>Un site web interractif pour calculer ses dépenses durant ses voyages avec ses potes</i>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table style="border-spacing: 20px;">
+    <tr>
+      <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
         <h3>🧭 Portfolio (en développement)</h3>
         <a href="https://felix-pm.github.io/Portfolio_Felix/#home">
           <img src="https://img.shields.io/badge/Visiter-Portfolio-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
@@ -104,7 +131,7 @@
       <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
         <h3>🕹️ Mini-jeu Sokoban</h3>
         <a href="https://github.com/felix-pm/coda-bnv-sokoban/tree/main/sokoban">
-          <img src="https://img.shields.io/badge/Code-Sokoban-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Code-Mini jeu-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
         </a>
         <br><br><i>Un mini-jeu réalisé pendant ma formation</i>
       </td>
