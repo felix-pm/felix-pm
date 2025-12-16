@@ -90,7 +90,7 @@
         <a href="https://felixpm.alwaysdata.net/index.php">
           <img src="https://img.shields.io/badge/Visiter-site-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
         </a>
-        <br><br><i>Un site web interractif pour calculer ses dépenses durant ses voyages avec ses potes</i>
+        <br><br><i>Un site web interactif permettant de calculer et suivre les dépenses lors de voyages entre amis</i>
       </td>
       <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
         <h3>​🎮​ Site pour référencer ses tournois</h3>
