@@ -34,7 +34,7 @@
         expériences concrètes </p>
       </td>
       <td align="center" width="33%">
-        <h3 style="color:#38bdf8;">📚 Mes Objectifs de cette année</h3>
+        <h3 style="color:#38bdf8;">📚 Mes Objectifs de l'année</h3>
         <p style="color:rgba(255,255,255,0.8);">🧠 Maîtriser le FullStack<br>
         🐳 Approfondir Docker & DevOps<br></p>
       </td>
