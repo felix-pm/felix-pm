@@ -30,8 +30,8 @@
         <h3 style="color:#38bdf8;">🚀 Mission</h3>
         <p style="color:rgba(255,255,255,0.8);">Créer des interfaces élégantes,<br>
         performantes et accessibles.<br><br>
-        Transformer des idées en<br>
-        expériences concrètes ✨</p>
+        ✨ Transformer des idées en<br>
+        expériences concrètes </p>
       </td>
       <td align="center" width="33%">
         <h3 style="color:#38bdf8;">📚 Objectif</h3>
