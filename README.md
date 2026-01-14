@@ -23,7 +23,7 @@
         <h3 style="color:#38bdf8;">👨‍💻 Profil</h3>
         <p style="color:rgba(255,255,255,0.8);">Félix PARENDEAU MILLERIOUX<br><br>
         Passionné : dev web / automobile<br>
-        En formation à CODA Orléans<br>
+        En formation à CODA<br>
         Basé à Orléans, France</p>
       </td>
       <td align="center" width="33%">
