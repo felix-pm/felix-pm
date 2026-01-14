@@ -10,7 +10,7 @@
       🚀 Félix PARENDEAU MILLERIOUX
     </h1>
     <p style="font-size: 18px; color: rgba(255,255,255,0.85); margin-top: 10px;">
-      💻 Développeur Web FullStack | ⚙️ Frontend & Backend | 🌟 Créateur d’expériences numériques
+      Développeur Web FullStack | Frontend & Backend | Créateur d’expériences numériques
     </p>
   </div>
 </div>
@@ -22,21 +22,21 @@
       <td align="center" width="33%">
         <h3 style="color:#38bdf8;">👨‍💻 Profil</h3>
         <p style="color:rgba(255,255,255,0.8);">Félix PARENDEAU MILLERIOUX<br><br>
-        🎯 Passionné : dev web / automobile<br>
-        💡 En formation à CODA Orléans<br>
-        🌍 Basé à Orléans, France</p>
+        Passionné : dev web / automobile<br>
+        En formation à CODA Orléans<br>
+        Basé à Orléans, France</p>
       </td>
       <td align="center" width="33%">
         <h3 style="color:#38bdf8;">🚀 Mission</h3>
         <p style="color:rgba(255,255,255,0.8);">Créer des interfaces élégantes,<br>
         performantes et accessibles.<br><br>
-        ✨ Transformer des idées en<br>
+        Transformer des idées en<br>
         expériences concrètes </p>
       </td>
       <td align="center" width="33%">
         <h3 style="color:#38bdf8;">📚 Mes Objectifs de l'année</h3>
-        <p style="color:rgba(255,255,255,0.8);">🧠 Maîtriser le FullStack<br>
-        🐳 Approfondir Docker & DevOps<br></p>
+        <p style="color:rgba(255,255,255,0.8);">Maîtriser le FullStack<br>
+        Approfondir Docker & DevOps<br></p>
       </td>
     </tr>
   </table>
