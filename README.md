@@ -86,6 +86,13 @@
   <table style="border-spacing: 20px;">
     <tr>
       <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
+        <h3>🧭 Portfolio</h3>
+        <a href="https://felix-pm.fr">
+          <img src="https://img.shields.io/badge/Visiter-Portfolio-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
+        </a>
+        <br><br><i>Mon espace personnel</i>
+      </td>
+      <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
         <h3>🏖️​ Fair count (Tricount)</h3>
         <a href="https://felixpm.alwaysdata.net/index.php">
           <img src="https://img.shields.io/badge/Visiter-site-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
@@ -99,13 +106,6 @@
         </a>
         <br><br><i>Site web qui permet de référencer tous les matchs d'un tournoi (projet réalisé en cours)</i>
       </td>
-      <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
-        <h3>🥐​ Site vitrine d'une boulangerie</h3>
-        <a href="https://felix-pm.github.io/cafe-orleans/">
-          <img src="https://img.shields.io/badge/Visiter-site-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
-        </a>
-        <br><br><i>Site vitrine d'une boulangerie (projet réalisé en cours)</i>
-      </td>
     </tr>
   </table>
 </div>
@@ -113,11 +113,11 @@
   <table style="border-spacing: 20px;">
     <tr>
       <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
-        <h3>🧭 Portfolio (en développement)</h3>
-        <a href="https://felix-pm.github.io/Portfolio_Felix/#home">
-          <img src="https://img.shields.io/badge/Visiter-Portfolio-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
+        <h3>🥐​ Site vitrine d'une boulangerie</h3>
+        <a href="https://felix-pm.github.io/cafe-orleans/">
+          <img src="https://img.shields.io/badge/Visiter-site-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
         </a>
-        <br><br><i>Mon espace personnel en évolution</i>
+        <br><br><i>Site vitrine d'une boulangerie (projet réalisé en cours)</i>
       </td>
       <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
         <h3>🎨 Site vitrine</h3>
