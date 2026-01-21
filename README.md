@@ -154,7 +154,7 @@
 <div align="center">
   <a href="mailto:felix.parendeau@gmail.com"><img src="https://img.shields.io/badge/Mail-18181B?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
   <a href="https://www.linkedin.com/in/felix-parendeau/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
-  <a href="https://felix-pm.github.io/Portfolio_Felix/#home"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://felix-pm.fr"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
 
 ---
