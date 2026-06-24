@@ -120,7 +120,7 @@
         <br><br><i>Site vitrine d'une boulangerie (projet réalisé en cours)</i>
       </td>
       <td align="center" width="33%" style="background: rgba(56,189,248,0.05); padding:20px; border-radius:15px;">
-        <h3>🎨 Site vitrine</h3>
+        <h3>🎨 Site vitrine d'une entreprise</h3>
         <a href="https://felix-pm.github.io/felix-pm-final/">
           <img src="https://img.shields.io/badge/Visiter-site-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
         </a>
